@@ -1,1 +1,2 @@
 learning gitandgithub
+ learning day2
